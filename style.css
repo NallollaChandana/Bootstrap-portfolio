@@ -1,0 +1,39 @@
+.start{
+   background-color:  #0C2340;
+}
+.hell{
+    /* border: 2px solid green; */
+    width: 62%;
+    padding-top: 50px;
+    margin-left: 268px;
+}
+.skills{
+   /* border: 2px solid green; */
+   margin-top: 30px;
+   width: 90%;
+   margin-left: 90px;
+}
+.skills-one{
+   /* border: 2px solid yellow; */
+   width: 70%;
+}
+.Lang{
+   /* border: 2px solid green; */
+   margin-left: 170px;  
+}
+.project{
+   /* border: 2px solid green; */
+   width: 79%;
+   margin-left: 145px;
+   padding: 15px;
+}
+.services{
+   /* border: 2px solid green; */
+   width: 90%;
+   margin: auto;
+   text-align: center;
+}
+.Foot{
+   background-color:  #0C2340;
+   width: 25%;
+}
